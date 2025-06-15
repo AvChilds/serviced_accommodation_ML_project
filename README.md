@@ -57,7 +57,7 @@ The following python modules and libraries are additionally required:
 -  tensorflow
 
  ### 📈Data
- Download the cleaned data [data_cleaned.csv](data_cleaned.csv) within the data folder from phase 1, if  you are running the workbook from phase 1.
+ Download the cleaned data [data_cleaned.csv](data_cleaned.csv) within the data folder from phase 1, if  you are running the workbook from Phase 2. This means that you do not have to run the whole project from the beginning. If you would like to run the project from the beginning, please follow instructions from the start of this README document.
  
 Check that the data folder path is correct in the Jupyter notebook. 
 
