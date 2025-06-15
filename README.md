@@ -60,7 +60,6 @@ The following python modules and libraries are additionally required:
 Check that the data folder is in the same
 
  ### Running the code
- The code can be run directly from phase2 (section 5) onwards. 
- 
+ The code can be run directly from phase2 (section 5) onwards within the Jupyter notebook. To access section 5, click on the down arrow to expand the notebook.  
 
 
