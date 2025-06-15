@@ -36,9 +36,31 @@ The following python modules and libraries are required:
 ### Files within the Repostory:
 - data: contains 2 .csv files containing dataset
 - masters_assignment_1.ipynb  : this is the main source code file. Contains code for data cleaning, analysis, visualisation and explanations.
-- project_document pdf : this document details the summary of the assignment. 
-  
+- project_document pdf : this document details the summary of the assignment.
+
+
 ### Instructions
 1. Download all data files and Jupyter Notebook from the repository
 2. Import the .csv files into local drive. Ensure the file paths are amended accordingly in the Jupyter Notebook
-3. run the .ipynb file within Jupyter Notebook. 
+3. run the .ipynb file within Jupyter Notebook.
+   
+## 🛠️ Phase 2 : Machine Learning
+> The main source file is masters_assignment_final
+> You may wish to view the project document CFGMasters_assignement_final_project_document
+
+### Tools and Requirements
+Jupyter Notebook with Python 3.13
+The following python modules and libraries are additionally required:
+-  scikit-learn==1.4.2 (install downgrade for keras compatibility)
+-  scikeras
+-  tensorflow
+
+ ### 📈Data
+ Download the cleaned data (data_cleaned.csv) within the data folder from phase 1, if  you are running the workbook from phase 1
+Check that the data folder is in the same
+
+ ### Running the code
+ The code can be run directly from phase2 (section 5) onwards. 
+ 
+
+
