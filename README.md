@@ -1,3 +1,4 @@
+> 🚀 **Update:** Please proceed to [**Phase 2 Instructions**](#phase-2-instructions) for the next stage of the project.
 
 ## 🏡 **Predicting High-Occupancy Short-Term Rentals: A Machine Learning Approach for Property Investment Decisions**
 
@@ -44,7 +45,7 @@ The following python modules and libraries are required:
 2. Import the .csv files into local drive. Ensure the file paths are amended accordingly in the Jupyter Notebook
 3. run the .ipynb file within Jupyter Notebook.
    
-## 🛠️ Phase 2 : Machine Learning
+## Phase 2 Instructions
 > The main source file is [masters_assignment_final_avrilchilds.ipynb](masters_assignment_final_avrilchilds.ipynb)
 > You may wish to view the project document [CFGMasters_assignment_final_project_document](CFGMasters_assignment_final_project_document.pdf)
 
@@ -56,7 +57,7 @@ The following python modules and libraries are additionally required:
 -  tensorflow
 
  ### 📈Data
- Download the cleaned data [data_cleaned.csv](data/data_cleaned.csv) within the data folder from phase 1, if  you are running the workbook from phase 1.
+ Download the cleaned data [data_cleaned.csv](data_cleaned.csv) within the data folder from phase 1, if  you are running the workbook from phase 1.
  
 Check that the data folder path is correct in the Jupyter notebook. 
 
