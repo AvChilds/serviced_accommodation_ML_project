@@ -47,12 +47,12 @@ The following python modules and libraries are required:
    
 ## Phase 2 Instructions
 > The main source file is [masters_assignment_final_avrilchilds.ipynb](masters_assignment_final_avrilchilds.ipynb)
-> You may wish to view the project document [CFGMasters_assignment_final_project_document](CFGMasters_assignment_final_project_document.pdf)
+> You may wish to view the project document [masters_assignment_final_prof_doc.pdf](masters_assignment_final_proj_doc.pdf) for a summarised view of the project. 
 
 ### Tools and Requirements
 Jupyter Notebook with Python 3.13
 The following python modules and libraries are additionally required:
--  scikit-learn==1.4.2 (install downgrade for keras compatibility)
+-  scikit-learn==1.4.2 (*Note: install downgrade for scikiet-learn for keras compatibility*)
 -  scikeras
 -  tensorflow
 
@@ -62,6 +62,6 @@ The following python modules and libraries are additionally required:
 Check that the data folder path is correct in the Jupyter notebook. 
 
  ### Running the code
- The code can be run directly from phase2 (section 5) onwards within the Jupyter notebook. To access section 5, click on the down arrow to expand the notebook.  
+ The code can be run directly from phase2 (section 5) onwards within the Jupyter notebook.
 
 
