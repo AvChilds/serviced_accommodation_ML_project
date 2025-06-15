@@ -46,7 +46,7 @@ The following python modules and libraries are required:
    
 ## 🛠️ Phase 2 : Machine Learning
 > The main source file is [masters_assignment_final.ipynb](masters_assignment_final.ipynb)
-> You may wish to view the project document `CFGMasters_assignment_final_project_document`
+> You may wish to view the project document [CFGMasters_assignment_final_project_document](CFGMasters_assignment_final_project_document.pdf)
 
 ### Tools and Requirements
 Jupyter Notebook with Python 3.13
