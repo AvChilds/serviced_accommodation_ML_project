@@ -45,8 +45,8 @@ The following python modules and libraries are required:
 3. run the .ipynb file within Jupyter Notebook.
    
 ## 🛠️ Phase 2 : Machine Learning
-> The main source file is masters_assignment_final
-> You may wish to view the project document CFGMasters_assignement_final_project_document
+> The main source file is `masters_assignment_final`
+> You may wish to view the project document `CFGMasters_assignment_final_project_document`
 
 ### Tools and Requirements
 Jupyter Notebook with Python 3.13
