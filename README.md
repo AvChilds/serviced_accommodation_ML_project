@@ -1,5 +1,5 @@
 
-## 🏡 **CFG +Masters Project: Serviced Accommodation in Essex - Analysis and Prediction**
+## 🏡 **CFG +Masters Project: Predicting High-Occupancy Short-Term Rentals: A Machine Learning Approach for Property Investment Decisions**
 
 This project dives into the world of **Serviced accommodation listings in Essex** with the goal of assisting a holiday lettings company select profitable properties to invest in based on historical Airbnb listing data. 
 
