@@ -1,5 +1,3 @@
-> 🚀 **Update:** Please proceed to [**Phase 2 Instructions**](#phase-2-instructions) for the next stage of the project.
-> (Assignment 1 files can now be found in the `archive` folder)
 
 ## 🏡 **Predicting High-Occupancy Short-Term Rentals: A Machine Learning Approach for Property Investment Decisions**
 
