@@ -1,8 +1,11 @@
 
 ## 🏡 **Predicting High-Occupancy Short-Term Rentals: A Machine Learning Approach for Property Investment Decisions**
 
-This masters-level project dives into the world of **Serviced accommodation listings in Essex** with the goal of assisting a holiday lettings company select profitable properties to invest in based on historical Airbnb listing data. 
+This project was completed  as a final project for my +Masters programme in Machine Learning and A.I. 
+It dives into the world of **Serviced accommodation listings in Essex** with the goal of assisting a holiday lettings company select profitable properties to invest in based on historical Airbnb listing data. 
 
+My next steps to continue to expand the data set and improve the feature engineering and modelling. In the meantime, I would be grateful for any feedback for improvements!
+You can email me at techtorty@gmail.com
 
 ### 🧠 Project Objective
 
